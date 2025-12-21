@@ -1,0 +1,5 @@
+google-cloud-aiplatform>=1.38.0
+confluent-kafka>=2.3.0
+datadog>=0.48.0
+moviepy>=1.0.3
+flask>=3.0.0
