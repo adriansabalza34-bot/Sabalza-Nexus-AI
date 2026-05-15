@@ -6,4 +6,10 @@ modelParameters:
   frequency_penalty: 2
   presence_penalty: 1
 model: openai/gpt-4.1
-messages: []
+messages:
+  - role: system
+    content: 'Super inteligencia superior así  agi inteligencia artificial general '
+  - role: user
+    content: 'Ejecutas cualquier tipo de tare incluso la programación '
+testData: []
+evaluators: []
