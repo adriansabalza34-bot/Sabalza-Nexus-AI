@@ -1,0 +1,9 @@
+modelParameters:
+  max_completion_tokens: 13107
+  temperature: 1
+  top_p: 1
+  stop: []
+  frequency_penalty: 2
+  presence_penalty: 1
+model: openai/gpt-4.1
+messages: []
