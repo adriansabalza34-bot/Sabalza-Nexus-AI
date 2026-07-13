@@ -36,8 +36,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact  
 For any inquiries, please reach out to:  
-- Project Maintainer: [Your Name]  
-- Email: [Your Email]  
+- Project Maintainer: [Sabalza NEXUS AI]  
+- Email: [adriansabalza7@gmail.com]  
 
 ---  
 
